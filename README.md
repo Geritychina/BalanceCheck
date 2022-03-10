@@ -6,4 +6,4 @@
 
 📍With proudly collaboration with Predrag Grigorov :)
 
-Made with love By Gergana™ ft Predrag ;)
+Made with love By Gergana™ & Co
