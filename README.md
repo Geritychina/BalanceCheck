@@ -4,6 +4,6 @@
 📌Identity, Crud for income & expense, Crud for repeated income & expense.
 
 
-📍With proudly collaboration with Predrag Grigorov :)
+📍Proudly collaboration with Predrag Grigorov :)
 
 Made with love By Gergana™ & Co
