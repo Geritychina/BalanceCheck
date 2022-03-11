@@ -1,0 +1,27 @@
+﻿@using Newtonsoft.Json
+@model IEnumerable<BalanceCheck.Models.AppUser>
+ <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+@{
+    ViewData["Title"] = "Home Page";
+
+   
+}
+
+ @if (User.Identity.IsAuthenticated)
+        {
+    <div class="text-center">
+        <h1 class="display-4">BalanceCheck</h1>
+
+        <div >
+            <b>Your Income is:</b>
+            @TempData["balance"]  <p hidden> =  JsonConvert.DeserializeObject<PopupMessage>(TempData["sumOfIncomes"]);
+        </div>
+       
+         
+    </div>
+}
+else
+{
+    <h1>Only registered users can see balance!</h1>
+    <img src=~/img2.jpg />
+}

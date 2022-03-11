@@ -1,0 +1,348 @@
+﻿++Solution 'BalanceCheck' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:BalanceCheck.sln
+++BalanceCheck
+i:{00000000-0000-0000-0000-000000000000}:BalanceCheck
+++Connected Services 
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2153
+++Dependencies
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2152
+++Properties
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\properties\
+++launchSettings.json
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\properties\launchsettings.json
+++serviceDependencies.json
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\properties\servicedependencies.json
+++wwwroot
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\
+++css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\css\
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\js\
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\
+++bootstrap
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\
+++jquery
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery\
+++jquery-validation
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\favicon.ico
+++img2.jpg
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\img2.jpg
+++Areas
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\
+++Identity
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\
+++Pages
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\
+++Account
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\
+++_ValidationScriptsPartial.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\_validationscriptspartial.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\_viewimports.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\_viewimports.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\_viewimports.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\manage\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\_viewstart.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\_viewstart.cshtml
+++Controllers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\controllers\
+++ExpenseController.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\controllers\expensecontroller.cs
+++HomeController.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\controllers\homecontroller.cs
+++IncomeController.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\controllers\incomecontroller.cs
+++Data
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\data\
+++ApplicationDbContext.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\data\applicationdbcontext.cs
+++DataAccess
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\dataaccess\
+++Migrations
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\migrations\
+++20220306170354_InitialMigration.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\migrations\applicationdbcontextmodelsnapshot.cs
+++Models
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\models\
+++AppUser.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\models\appuser.cs
+++ErrorViewModel.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\models\errorviewmodel.cs
+++Expense.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\models\expense.cs
+++Income.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\models\income.cs
+++ViewModels
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\viewmodels\
+++ExpenseVM.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\viewmodels\expensevm.cs
+++IncomeVM.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\viewmodels\incomevm.cs
+++Views
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\
+++Expenses
+++Create.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\income\create.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\expense\create.cshtml
+++Delete.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\income\delete.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\expense\delete.cshtml
+++Details.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\income\details.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\expense\details.cshtml
+++Edit.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\income\edit.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\expense\edit.cshtml
+++Index.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\home\index.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\income\index.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\manage\index.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\expense\index.cshtml
+++Home
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\home\
+++Privacy.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\home\privacy.cshtml
+++Income
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\income\
+++Shared
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\shared\
+++_Layout.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\shared\_layout.cshtml
+++_Layout.cshtml.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\shared\_layout.cshtml.css
+++_LoginPartial.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\shared\_loginpartial.cshtml
+++Error.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\shared\error.cshtml
+++appsettings.json
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\appsettings.json
+++appsettings.Development.json
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\appsettings.development.json
+++Program.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2181
+++Analyzers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:analyzers
+++Frameworks
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:frameworks
+++Packages
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:packages
+++serviceDependencies.local.json
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\properties\servicedependencies.local.json
+++site.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\css\site.css
+++site.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\js\site.js
+++dist
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery\dist\
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery\license.txt
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++Manage
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\manage\
+++Login.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\login.cshtml
+++Logout.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\logout.cshtml
+++Register.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\register.cshtml
+++20220306170354_InitialMigration.Designer.cs
+++MessagePackAnalyzer
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\microsoft.netcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.2)
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2176
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.2)
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2177
+++Microsoft.AspNetCore.Identity.UI (6.0.2)
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2180
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2175
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2178
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2179
+++jquery.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++_ManageNav.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\manage\_managenav.cshtml
+++DeletePersonalData.cshtml
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\manage\deletepersonaldata.cshtml
+++ManageNavPages.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\manage\managenavpages.cs
+++Login.cshtml.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\login.cshtml.cs
+++Logout.cshtml.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\logout.cshtml.cs
+++Register.cshtml.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\register.cshtml.cs
+++bootstrap.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++DeletePersonalData.cshtml.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\manage\deletepersonaldata.cshtml.cs
+++Index.cshtml.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\areas\identity\pages\account\manage\index.cshtml.cs
+++bootstrap.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++NewFolder
+++Expense
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\views\expense\
+++20220307170105_InitialMigration.cs
+++20220307170105_InitialMigration.Designer.cs
+++Secrets.json (Local)
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2224
+++Secrets.json (Local) dependency is detected
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:>2225
+++Microsoft.AspNet.Identity.Core (2.2.3)
+++20220308005554_InitialMigration.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\migrations\20220308005554_initialmigration.cs
+++20220308005554_InitialMigration.Designer.cs
+i:{9247c06d-7072-46e2-9aed-e6951ad78f8c}:c:\users\predrag grigorov\desktop\newversionbalancecheck\migrations\20220308005554_initialmigration.designer.cs
